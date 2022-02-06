@@ -1,3 +1,18 @@
+/*
+ * Class: CMSC203 
+ * Instructor: Gary Thai
+ * Description: The class WiFiDiagnosis prompts the user in an effort to reconnect the user to WiFi
+ * using input checking/comparison and if-else statements to complete the diagnosis while the user
+ * stays informed at each step by printed feedback.
+ * Due: 2/09/2021
+ * Platform/compiler: Windows
+ * I pledge that I have completed the programming assignment independently.
+   I have not copied the code from a student or any source.
+   I have not given my code to any student.
+   Print your Name here: RenzoSvartz
+*/
+
+
 package Project_1_Renzo_Svartz;
 
 import java.util.Scanner;
